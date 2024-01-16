@@ -21,3 +21,5 @@ Use the following commands to set up the project:
 ```bash
 # Install project dependencies
 npm install --legacy-peer-deps
+
+npm run dev
